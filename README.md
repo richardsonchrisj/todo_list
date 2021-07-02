@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/richardsonchrisj/todo_list">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">todo_list</h3>
